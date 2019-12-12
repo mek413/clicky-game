@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import Cards from "./components/Cards";
+import Header from "./components/Header";
+import Navbar from "./components/Navbar";
 import cards from "./cards.json";
 
 class App extends Component {
