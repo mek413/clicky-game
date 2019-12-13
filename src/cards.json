@@ -1,0 +1,73 @@
+[
+    {
+        "id": 1,
+        "name": "Jake",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/jakes_at_transparent.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Finn",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/finnthehuman_adventuretime.png"
+    },
+    
+    {
+        "id": 3,
+        "name": "Princess Bubblegum",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/Bubblegum_7328.jpg"
+    },
+    
+    {
+        "id": 4,
+        "name": "Lady Rainicorn",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/1ATLadyRainicornLook_9694.png"
+    },
+    
+    {
+        "id": 5,
+        "name": "BMO",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/bmo_7.png"
+    },
+    
+    {
+        "id": 6,
+        "name": "LSP",
+        "image":"https://static.tvtropes.org/pmwiki/pub/images/lumpy_space_princess.png"
+    },
+    
+    {
+        "id": 7,
+        "name": "Marceline",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/marceline_the_vampire_queen.png"
+    },
+    
+    {
+        "id": 8,
+        "name": "Ice King",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/Ice_King_6609.png"
+    },
+    
+    {
+        "id": 9,
+        "name": "NEPTR",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/neptr_6492.png"
+    },
+    
+    {
+        "id": 10,
+        "name": "Flame Princess",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/flame_princess.png"
+    },
+    
+    {
+        "id": 11,
+        "name": "Tree Trunks",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/tree_trunks_at.png"
+    },
+    
+    {
+        "id": 12,
+        "name": "Lemongrab",
+        "image":"https://static.tvtropes.org/pmwiki/pub/images/lemongrab_2_in_clothes_with_septer_1126.png"
+    }
+]
