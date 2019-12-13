@@ -3,7 +3,9 @@ import "./style.css";
 
 function Cards(props) {
   return (
-    <h1>Hello World</h1>
+    <div className="img-container">
+        <img alt={props.name} src={props.image} />
+    </div>
   );
 }
 
