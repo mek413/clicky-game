@@ -8,9 +8,9 @@ function Navbar(props) {
         <li className="brand">
         <a href="/">Clicky Game</a>
         </li>
-        <li className="">You guessed incorrectly!</li>
+        <li>{props.gameText}</li>
         <li>
-          Score: 0 | Top Score: 0
+          Score: {props.counter} | Top Score: {props.topScore}
         </li>
       </ul>
     </nav>
