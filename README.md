@@ -1,5 +1,5 @@
 # Project Name
-Clicky Game
+Clicky Game - https://mek413.github.io/clicky-game/
 
 ## Description
 A simple react game that lets you click on images to score points.
